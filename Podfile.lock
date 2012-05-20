@@ -1,0 +1,10 @@
+PODS:
+  - FontLabel (0.0.1)
+  - cocos2d-iphone (1.0.1):
+    - FontLabel
+  - cocos2d-iphone/CocosDenshion (1.0.1):
+    - cocos2d-iphone (= 1.0.1)
+
+DEPENDENCIES:
+  - cocos2d-iphone (~> 1.0.1)
+  - cocos2d-iphone/CocosDenshion
